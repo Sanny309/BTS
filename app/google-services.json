@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "376140023740",
+    "firebase_url": "https://loader-4a55b.firebaseio.com",
+    "project_id": "loader-4a55b",
+    "storage_bucket": "loader-4a55b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376140023740:android:57bfec60a272504f",
+        "android_client_info": {
+          "package_name": "com.example.sanny.loader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376140023740-dei55easq1iguqogbf6t9apv0krm0gmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanny.loader",
+            "certificate_hash": "3ecdad1aa433fb3bb65a3bbe972c2c2a1949eaad"
+          }
+        },
+        {
+          "client_id": "376140023740-1nv60ode41ej75vu1dapm5oj1se20evd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanny.loader",
+            "certificate_hash": "e6e7fcf0eba53a1ff971da8f5983b2b0615384a7"
+          }
+        },
+        {
+          "client_id": "376140023740-ql5rc0sjd6vnnclc8oulq5kf3nm7jb5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALH1vZzu7VzrgVhWkG_5vh_R9OGWC6dpg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376140023740-ql5rc0sjd6vnnclc8oulq5kf3nm7jb5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

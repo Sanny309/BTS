@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\7d2611223efb2ed8152e1592809821f5e97b78de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="890ae0bc8fff3c23e8759304235e14b3a536ad80">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_5ae7d5a93076e39ace5177060ee80ada64dca384.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\351549543263c0f9f2a43216c39352be9813a400\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c767d2f42dde13db0a0a49b66df4a0b3d7e3e61e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\469a2b6125113586fc960a44ca403df41696bff9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f42194ee853234bbb6c4c92f47a93f417d1628c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\daf4dbed09223db8c8255aa86065d193399f4828\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_f2e7ebeb37856732d06ff7737be219b251b78d6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\25ccabde312451682fc9f739cb7704ecfa98d48e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_473c0786c024b493006c0df5452c81c03d12d903.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\001f0d87cc88b0791b3c5f13f07a6086127b17d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_d599028002c4790a060aeea09a7403f4f41697c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\001f0d87cc88b0791b3c5f13f07a6086127b17d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b882397288de69e13ff147bdefe584cc6deb055">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d599028002c4790a060aeea09a7403f4f41697c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\25129c95f19ace51f7a0c00ab60a55ce3bcd98b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="99e6d4fce7eaa92916cf26f951414b1849ce4ef5">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d4f25dec42d0dfe7e92c95bfca1c05f6943f133\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\e0f5ba9aabf43b22b3d75141c657d6b0d9effce2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_02b8db24c30ecf4ed6e1c5672ddaa34b5689327a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\25ccabde312451682fc9f739cb7704ecfa98d48e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_473c0786c024b493006c0df5452c81c03d12d903\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\469a2b6125113586fc960a44ca403df41696bff9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_f42194ee853234bbb6c4c92f47a93f417d1628c4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\daf4dbed09223db8c8255aa86065d193399f4828\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2e7ebeb37856732d06ff7737be219b251b78d6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\e0f5ba9aabf43b22b3d75141c657d6b0d9effce2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02b8db24c30ecf4ed6e1c5672ddaa34b5689327a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\bcdf198c6009784cfdcab393d7114f139370757b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6efbf40337e9bddaf2a2531e9bdfff73179e048b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\46c7ce24efeb23ae899de9ca81d66071b5d0ecad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f23013e418be363fa4d7343d81b79d8dd12d4212">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_3e226b18aad6bd3f72dce60fb9eaa3350b43bfd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\b34654b2a2baae5ccfbd9cef8720c944791ede92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_84cc71a41a9f9666e377debce73e706df39f6bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\d6a2b453dc7bcadacd600c8e40e1ab171c594e88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_4cb5dd592511d61fb74044a896c096004b403a35.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\42b2b49245c2df8dcdafbfa380e64c79b784ca72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7edf6db4e4e673ee210c68bc16f0ac01b3153e81">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed5526293403316577054b02ec3fa37ea0b77312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\d6a2b453dc7bcadacd600c8e40e1ab171c594e88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4cb5dd592511d61fb74044a896c096004b403a35\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\2cba0cd06c932aee7e9b5538286fa23f813bb298\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="07ce024be0a1c178d857ec2fe55a99011c2ff7a2">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_d1c0eb1eecfc43658e70bf774239d1f26485bfde.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\46c7ce24efeb23ae899de9ca81d66071b5d0ecad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f23013e418be363fa4d7343d81b79d8dd12d4212">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e226b18aad6bd3f72dce60fb9eaa3350b43bfd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\2cba0cd06c932aee7e9b5538286fa23f813bb298\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="07ce024be0a1c178d857ec2fe55a99011c2ff7a2">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1c0eb1eecfc43658e70bf774239d1f26485bfde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\721fd13fbdf8bbed9ebc997830e33dd89c011194\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e052d5a9922fbb67a4bd45dea30c9465f207c0b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\8d478bf8ea7b51092f526cbc65733d19dd8d3617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_ce192d1eb3bf50e8e260ab949b2a47d383130ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\42b2b49245c2df8dcdafbfa380e64c79b784ca72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7edf6db4e4e673ee210c68bc16f0ac01b3153e81">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_ed5526293403316577054b02ec3fa37ea0b77312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\351549543263c0f9f2a43216c39352be9813a400\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d9a09584e04eb95d247f251d5d498eb57fcf6e41">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_c767d2f42dde13db0a0a49b66df4a0b3d7e3e61e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\b34654b2a2baae5ccfbd9cef8720c944791ede92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84cc71a41a9f9666e377debce73e706df39f6bbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\bcdf198c6009784cfdcab393d7114f139370757b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_6efbf40337e9bddaf2a2531e9bdfff73179e048b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\8d478bf8ea7b51092f526cbc65733d19dd8d3617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce192d1eb3bf50e8e260ab949b2a47d383130ded\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\1a64729560c53363e024e6b37eb358263a40d764\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="16f186a432ab801268bee4a20c038c9fa35a2901">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_2403cae5cd5eb1199d750b6147439bf27c64af32.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\1a64729560c53363e024e6b37eb358263a40d764\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="16f186a432ab801268bee4a20c038c9fa35a2901">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2403cae5cd5eb1199d750b6147439bf27c64af32\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\a494effc7b40986f340bcd80c46d513d14f1ee26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_bfd4a466d5f39069a3016163b053fa794e30940c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\1a68cb964d76313c618f676bf2dd814ebefcb2a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3a72bee9f9eda45a5940a278fd9c1979b14a37">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b9aedc6a033558485f66bf338e2fda547c4736b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\a494effc7b40986f340bcd80c46d513d14f1ee26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfd4a466d5f39069a3016163b053fa794e30940c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\23dcc0ff826ea0ad77f5d1d1f10a0ef61549c0c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_fa1b77a0abbab04d933db6fe3f703c2e7ca2aa7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\1a68cb964d76313c618f676bf2dd814ebefcb2a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3a72bee9f9eda45a5940a278fd9c1979b14a37">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_4b9aedc6a033558485f66bf338e2fda547c4736b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\6f6de788c33cd6b500e16417027268438da7b095\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_1ad346ac79b9a29f5a735bfef2c6de0e0fe8ecfc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\23dcc0ff826ea0ad77f5d1d1f10a0ef61549c0c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa1b77a0abbab04d933db6fe3f703c2e7ca2aa7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\6f6de788c33cd6b500e16417027268438da7b095\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ad346ac79b9a29f5a735bfef2c6de0e0fe8ecfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\1a183ba904a00a7792103bd4bef659f64f7fd4bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cd3e4eb77a31986f61e69f12fcad302618db34b7">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_fd2a15d3425b883727d2ef7427567b7b154c7574.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\1a183ba904a00a7792103bd4bef659f64f7fd4bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cd3e4eb77a31986f61e69f12fcad302618db34b7">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd2a15d3425b883727d2ef7427567b7b154c7574\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\389627144cbc264427e777b69a3a30975161423f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ecd0a96f6bda796eeffafb066a93c84163b72234">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_a957e0596781b8b0dc3a585c21c6ff45cb74a2b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\7ba5bddb71b2d3cfa3192fdd9ddd615aade2a753\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9b7d070f3024fde0cb59e6358f44e6c076025426">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b3265f1cbdece440ebf034af4a0e13d3c23f679\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\389627144cbc264427e777b69a3a30975161423f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ecd0a96f6bda796eeffafb066a93c84163b72234">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a957e0596781b8b0dc3a585c21c6ff45cb74a2b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\f963f78d20525ccd14a350b963430579a3d3f121\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b5c787f82f3e31a1c639c799d19b9999dcb4f451">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_09ba512312ce820e0dce3fd34727c776cd71afe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\3506415941a5d4c2c991ecd8361911eb4b51bc7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_69b544082532d3fc55b2ffebc8dced1b544dee3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_05d146575451f463d183b607b9d042cc5474a043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\6dbd4dc66d8f40faa1c3acc7adc723afb0e3c5ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_2d04059f1c8de1d6495cde49db4ec9c78eb6d22e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\f963f78d20525ccd14a350b963430579a3d3f121\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b5c787f82f3e31a1c639c799d19b9999dcb4f451">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09ba512312ce820e0dce3fd34727c776cd71afe1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\3506415941a5d4c2c991ecd8361911eb4b51bc7f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69b544082532d3fc55b2ffebc8dced1b544dee3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\6dbd4dc66d8f40faa1c3acc7adc723afb0e3c5ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d04059f1c8de1d6495cde49db4ec9c78eb6d22e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\a4f4e6999a24a5e9c5b5be5ec97fb8eb21d9b839\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f4daa3cdaa8476e1e952279e9a7b3ba6ac8012fe">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_426b5424ab0dadee73f573ed3c157c542337b5e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\7ba5bddb71b2d3cfa3192fdd9ddd615aade2a753\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9b7d070f3024fde0cb59e6358f44e6c076025426">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_5b3265f1cbdece440ebf034af4a0e13d3c23f679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\103df8b548df71f3c356e344b8447ad05679990e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_99a9442a803bcff9b9e82d8cfee9ea37095945f4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_05d146575451f463d183b607b9d042cc5474a043\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\7e2569d3e7df0483596b1548318b6c15ff18e6c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_9a81a6d159907a2d767a63dc8361bc439bcfcadd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\72545ca44bf9a756e698cf6eb28fde8000b8b8dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fba4fe02a4ea786ef5f2e78fcbd8f51d999ad767">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_887a32d7807656479e98814e4f156d6b089ee512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\7e2569d3e7df0483596b1548318b6c15ff18e6c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a81a6d159907a2d767a63dc8361bc439bcfcadd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\72545ca44bf9a756e698cf6eb28fde8000b8b8dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fba4fe02a4ea786ef5f2e78fcbd8f51d999ad767">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_887a32d7807656479e98814e4f156d6b089ee512.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_e9fbdb719a5cd4ea144c4e1ac9600735e2f2fe6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\baf28355ee1e01570292b66c5b72a79d60bc42bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab047555afa8540f6903b480ece1781854a7fb9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\a4f4e6999a24a5e9c5b5be5ec97fb8eb21d9b839\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f4daa3cdaa8476e1e952279e9a7b3ba6ac8012fe">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_426b5424ab0dadee73f573ed3c157c542337b5e1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\103df8b548df71f3c356e344b8447ad05679990e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe94ced585bffcf3c7f788a294cc54e6785544ac">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99a9442a803bcff9b9e82d8cfee9ea37095945f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\2cf7c550340e85da82255aeff2e0d7b7a212cf08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf42968b00f665dae552206e33705877b949b333">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_c53d608806667decc7a37a7ed32cf1208ff4cc8c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\c74e7d28903fdd08baee0574a12bdb8637f2aed6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba26a7331051d5ff11e456212837d4b47cad4342\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\c74e7d28903fdd08baee0574a12bdb8637f2aed6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_ba26a7331051d5ff11e456212837d4b47cad4342.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\99ffca88513d158907430c1b2ec97cd306ca6184\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e59236507fc1c595cd784ce9aa81c2c04888fd40">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47883e3cf1ca252d5273c20b9068f48d60599d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\baf28355ee1e01570292b66c5b72a79d60bc42bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_ab047555afa8540f6903b480ece1781854a7fb9c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\f2dd72fcca2e26d8fc1a5bb423db0a828a5ce296\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c69827952fbc2ee6054726c843261ea7b51a5c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\99ffca88513d158907430c1b2ec97cd306ca6184\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e59236507fc1c595cd784ce9aa81c2c04888fd40">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_47883e3cf1ca252d5273c20b9068f48d60599d05.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\c90ef318af4fbc2eaca2e996b070e57655942012\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c86b9ff3ff60aa61ee5a9116c3c06a533ff324c9">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29b6a20bce6111610881c660806a0640ee114dd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\45a7d36d86f3aa5f5c1eb233b87f5e4c00703d34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_6f9660431557037db41c64df3fbb3e0853995592.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\6ae229bca2a9c2e7cbcf02dade034178b658cfc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b12bb9d634814dea26b91646893c25d6f8a401ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\2f288b4b4b2d8fabadffbffe430453f2cd447ee7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_09b6c26c7e6ab9c01955c985a53d1588a6a618ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\5b9853c7c8beecc8d6ffe1c6e3bbbb42ea6f5547\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="263d4b3cb11781467a6fa04450b1a72727c541f3">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78df4d838dd1f613b9fb99ef8be7a28c2922bfe9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\45a7d36d86f3aa5f5c1eb233b87f5e4c00703d34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0a23c4daa97697118d96f2b09d1dbaf9ea943d8d">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f9660431557037db41c64df3fbb3e0853995592\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\c90ef318af4fbc2eaca2e996b070e57655942012\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c86b9ff3ff60aa61ee5a9116c3c06a533ff324c9">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_29b6a20bce6111610881c660806a0640ee114dd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\6ae229bca2a9c2e7cbcf02dade034178b658cfc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_b12bb9d634814dea26b91646893c25d6f8a401ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\2cf7c550340e85da82255aeff2e0d7b7a212cf08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf42968b00f665dae552206e33705877b949b333">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c53d608806667decc7a37a7ed32cf1208ff4cc8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\9443e661018cb8911260bc3fec9f10e8a4e0f264\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_4ec3d33593af4f41282fc56252b36c9ce69bc073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\6e5f1101aabbdc6f43ad801a3f24bc612b0f3e80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_4a0ffc8bcb3d631a94ffb407773a1493fb0260b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\8513aa76db6a5069cc1f80c4fbea9047a13e896d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_270698f86025edb7cc818e964e22ccba65d39c54.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\9443e661018cb8911260bc3fec9f10e8a4e0f264\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ec3d33593af4f41282fc56252b36c9ce69bc073\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\9a6ce1a450a027a2baa9b402eb336284db7d8080\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4f525403c809a032a6849519be7aa8bb98146946">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_87fda5c4440466fdd1d267da54f0fda828d1e852.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\8513aa76db6a5069cc1f80c4fbea9047a13e896d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_270698f86025edb7cc818e964e22ccba65d39c54\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\b12a4c0a016d47dbca304c85d6073f43065815c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_a71549822a24b63a886f829f9ad61800ecfa0510.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\b12a4c0a016d47dbca304c85d6073f43065815c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a71549822a24b63a886f829f9ad61800ecfa0510\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\aeab0c1192bf02e983841e23a5098fb008e12895\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12a0fe89f4859b7cdad5c97bfaec19fef14068b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\6e5f1101aabbdc6f43ad801a3f24bc612b0f3e80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a0ffc8bcb3d631a94ffb407773a1493fb0260b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\de0592dea945923c2fbb44261db71a8b3d9575dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_9147140f7179a32d0e46d041c40e32a6d9d066ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\5b9853c7c8beecc8d6ffe1c6e3bbbb42ea6f5547\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="263d4b3cb11781467a6fa04450b1a72727c541f3">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_78df4d838dd1f613b9fb99ef8be7a28c2922bfe9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\de0592dea945923c2fbb44261db71a8b3d9575dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6746a3078625563a9eb381920f34e47ccd6bab87">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9147140f7179a32d0e46d041c40e32a6d9d066ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\2f288b4b4b2d8fabadffbffe430453f2cd447ee7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09b6c26c7e6ab9c01955c985a53d1588a6a618ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\9a6ce1a450a027a2baa9b402eb336284db7d8080\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4f525403c809a032a6849519be7aa8bb98146946">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_87fda5c4440466fdd1d267da54f0fda828d1e852\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\aeab0c1192bf02e983841e23a5098fb008e12895\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_12a0fe89f4859b7cdad5c97bfaec19fef14068b6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_e9fbdb719a5cd4ea144c4e1ac9600735e2f2fe6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\5c312ae99a065238026e6bdefaef77ac893ebc60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="428d38169e58cef7cfcac5776135a82cc9f6735e">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71f65ce3b78f1f5f6db5ceb83e6dfd0398f67bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\0f4f61c21d9b424aee3aaa2afcca740daee12725\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_022f5a5bbc6c5e7d1585f31aa0d1c23530f25782.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\1f3f76f96c8d0e3ff927826a19d15184002c73e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="31ef45383dcfc253588a3be0b49996821ce816c5">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a79a6908876e681a16e25bfa7d8b75eff13858f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\5c312ae99a065238026e6bdefaef77ac893ebc60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="428d38169e58cef7cfcac5776135a82cc9f6735e">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_71f65ce3b78f1f5f6db5ceb83e6dfd0398f67bc8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\84d1a4fef98d74569442d8230a45a69b406a8142\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5a3a8e531c152eee76b6bf3db2f78323bf23003\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\0f4f61c21d9b424aee3aaa2afcca740daee12725\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_022f5a5bbc6c5e7d1585f31aa0d1c23530f25782\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\721fd13fbdf8bbed9ebc997830e33dd89c011194\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_e052d5a9922fbb67a4bd45dea30c9465f207c0b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\d6de03b1924360b6acd87f83d77100ae6d0e7157\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="541e0b6826726943a93e78613feaa4c6e7915e35">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3650f7db109c5749c14134395ad71b2d616b977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\0fe315a8de1cb32da9c961f6208900d6fb75fa16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e602786db557183c69ecfe9c544f72ed729ede3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\85a715dc32f4c9b954c1e4925c0ba228d65335e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0bd16037efbafe7a1af9a84c10475ae7f3e0579\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\3b706ce6fdf50d22cab7b4f3a6b783632fa8072c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e7ca65463655d11456435e37fba9500c070d05e">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_2c186aac272e6a736f4b87554efec722a03c2e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\84d1a4fef98d74569442d8230a45a69b406a8142\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_f5a3a8e531c152eee76b6bf3db2f78323bf23003.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\0ff2e330c8d88e5d9ab07b84b78cd333725945f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_322274cc496fde05fe3c849e70edea6b136f3bb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\304113842561b580143bdf825817b6d928adf469\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="67fc961d875e770ba5f9a4f4573d5b257c06424a">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_1c6e3a2646b813b915f8322f02f7dd338257037a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\0ff2e330c8d88e5d9ab07b84b78cd333725945f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_322274cc496fde05fe3c849e70edea6b136f3bb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\0fe315a8de1cb32da9c961f6208900d6fb75fa16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_2e602786db557183c69ecfe9c544f72ed729ede3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\3b706ce6fdf50d22cab7b4f3a6b783632fa8072c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e7ca65463655d11456435e37fba9500c070d05e">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2c186aac272e6a736f4b87554efec722a03c2e61\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\85a715dc32f4c9b954c1e4925c0ba228d65335e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_b0bd16037efbafe7a1af9a84c10475ae7f3e0579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\de21d6aa1838b88b27f365e0dea14cc310a3f6f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b7dbd963f54ff7b600c647d14ca381f110d9c9a">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_30e14d9923da46c3e812b7b51c4215210803b701.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\4440c3480fffa88068d8d40ce66053cbea0c8111\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aba77345f8bb32d4433b88c51ced5b9c5f2d4459">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e1271dca5e8bd1b8e2637a5c9a757f917e7bb4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\d6de03b1924360b6acd87f83d77100ae6d0e7157\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="541e0b6826726943a93e78613feaa4c6e7915e35">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_f3650f7db109c5749c14134395ad71b2d616b977.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\de21d6aa1838b88b27f365e0dea14cc310a3f6f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4b7dbd963f54ff7b600c647d14ca381f110d9c9a">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_30e14d9923da46c3e812b7b51c4215210803b701\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\304113842561b580143bdf825817b6d928adf469\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="67fc961d875e770ba5f9a4f4573d5b257c06424a">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c6e3a2646b813b915f8322f02f7dd338257037a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\4440c3480fffa88068d8d40ce66053cbea0c8111\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aba77345f8bb32d4433b88c51ced5b9c5f2d4459">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_7e1271dca5e8bd1b8e2637a5c9a757f917e7bb4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\f2dd72fcca2e26d8fc1a5bb423db0a828a5ce296\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_4c69827952fbc2ee6054726c843261ea7b51a5c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\25129c95f19ace51f7a0c00ab60a55ce3bcd98b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="99e6d4fce7eaa92916cf26f951414b1849ce4ef5">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_1d4f25dec42d0dfe7e92c95bfca1c05f6943f133.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\6923a7c6209a40fab50aae296e16870f515aaf8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38ceaeb22ef95d1a0d320ecdad9be7383d6b7923">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9eafd4d60d32c5d83b52f8143120352b140ab6bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\6923a7c6209a40fab50aae296e16870f515aaf8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="38ceaeb22ef95d1a0d320ecdad9be7383d6b7923">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_9eafd4d60d32c5d83b52f8143120352b140ab6bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\5f6753d28d9490307e09910aa680f5bda65a750f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6cdca967c6341e3e8dce1aff35352a903ad47ca7">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_df0baebe707702bf95f9d13cfe2535fc4466c4b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\e49cd5c237cff21b4d14755764016141a48f6789\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d6de702a84f62173f3a9c7a1066d81cd11120f40">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_50ca265344c7ad5259a97b1646285dcf1dad5333\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\9a0a72e4ae4ab56693115f7918e3c6fa51036892\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2208fc058d44d1bfdd3c713185fc13c8ea333320">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fa60ba778ea7bb82e26508ed1991ae7b1382eb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\e49cd5c237cff21b4d14755764016141a48f6789\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d6de702a84f62173f3a9c7a1066d81cd11120f40">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_50ca265344c7ad5259a97b1646285dcf1dad5333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\1f3f76f96c8d0e3ff927826a19d15184002c73e5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="31ef45383dcfc253588a3be0b49996821ce816c5">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_a79a6908876e681a16e25bfa7d8b75eff13858f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\7d2611223efb2ed8152e1592809821f5e97b78de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="890ae0bc8fff3c23e8759304235e14b3a536ad80">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ae7d5a93076e39ace5177060ee80ada64dca384\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sanny\.android\build-cache\9a0a72e4ae4ab56693115f7918e3c6fa51036892\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2208fc058d44d1bfdd3c713185fc13c8ea333320">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\pre-dexed\debug\classes_9fa60ba778ea7bb82e26508ed1991ae7b1382eb6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sanny\.android\build-cache\5f6753d28d9490307e09910aa680f5bda65a750f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6cdca967c6341e3e8dce1aff35352a903ad47ca7">
+        <dex dex="C:\Users\Sanny\mapping\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df0baebe707702bf95f9d13cfe2535fc4466c4b4\classes.dex" />
+    </item>
+
+</items>
